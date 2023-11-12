@@ -1,0 +1,579 @@
+body
+{background:white;}
+
+.master3{
+	background: url("ate6.jpg");
+	position: relative;
+	top: 500px;
+background-size: cover;
+height: 900px;
+
+}
+.me{
+	text-align: center;
+	position: relative;
+	top: 80px;
+}
+.master{
+	background: url("ate8.jpg");
+background-size: cover;}
+
+
+.head1 {
+	display: flex;
+}
+.body1 {
+	flex-basis: 33%;
+}
+.body1 img{
+	height: 100px;
+	width: 100px;
+	position: relative;
+	left: 50px;
+
+}
+
+
+
+
+
+
+
+.body2 {
+	flex-basis: 33%;
+}
+
+
+.body2 a{
+	position: relative;
+	top: 5px;
+	left: 30px;
+	text-decoration: none;
+	margin: 5px;
+	color: black;
+}
+.body2 a:hover{
+	color: blue;
+}
+
+.body3 {
+	flex-basis: 33%;
+}
+.body3 img{
+	height: 20px;
+	width: 20px;
+	position: relative;
+	top: 6px;
+	left: 220px;
+}
+
+.body3 a{
+	position: relative;
+	to: 34px;
+	left: 240px;
+	text-decoration: none;
+	color: black;
+}
+
+.body3 a:hover{
+	color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+.head2{
+	display: flex;
+}
+
+.body4 {
+	flex-basis: 50%;
+}
+.body4 h1{
+	font-size: 40px;
+	position: relative;
+	left: 180px;
+	top: 40px;
+
+
+}
+.body4 p{
+	position: relative;
+	left: 180px;
+	top: 30px;
+	font-size: 10px;
+
+	
+	
+}
+
+.body4 a {
+	text-decoration: none;
+	color: black;
+	position: relative;
+	left: 200px;
+	top: 50px;
+	font-size: 20px;
+	margin: 10px;
+
+
+
+
+}
+.ab1:hover{
+	color: white;
+	background-color: lightblue;
+	border-radius: 15px;
+	padding: 5px;
+
+}
+
+.ab2:hover{
+	color: white;
+	background-color: lightblue;
+	border-radius: 15px;
+	padding: 5px;
+}
+
+
+.body5 {
+	flex-basis: 50%;
+}
+.body5 img{
+	height: 330px;
+	width: 260px;
+	position: relative;
+	left: 100px;
+	top: 30px;
+}
+
+.body5a {
+	display: flex;
+	background-color: white;
+	border-radius: 15px;
+	width: 130px;
+	height: 130px;
+	position: relative;
+	bottom: 240px;
+	left: 310px;}
+
+
+
+
+.body5a img{
+	height: 40px;
+	width: 40px;
+	position: relative;
+	left: 45px;
+	top: 30px;
+	border-radius: 10px;
+
+}
+.body5a p{
+	position: relative;
+	top: 80px;
+	right: 8px;
+	font-size: 10px;
+}
+
+.body5b{
+	display: flex;
+	background-color: white;
+	border-radius: 20px;
+	position: relative;
+	right: 500px;
+	top: 260px;
+	
+	width: 200px;
+	height: 50px;
+
+}
+
+.body5c{
+	flex-basis: 50%;
+}
+
+.body5d{
+	flex-basis: 50%;
+
+}
+.body5d h2
+{
+	font-size: 10px;
+	position: relative;
+	right: 15px;
+
+	
+}
+.body5d p {
+	font-size: 7px;
+	position: relative;
+	right: 5px;
+
+}
+.body5c img{
+	height: 50px;
+	width: 50px;
+	border-radius: 30px;
+	
+}
+
+
+
+
+
+
+
+
+.head3{
+	display: flex;
+	position: absolute;
+	top: 80%;
+	left: 15%;
+	background-color: white;
+
+	
+
+
+}
+
+.body6 {
+	flex-basis: 33%;
+	margin: 1px;
+	background-color: lightblue;
+
+}
+.body6 img{
+	background-color: whitesmoke;
+	height: 70px;
+	width: 70px;
+	border-radius: 50px;
+	position: relative;
+	left: 100px;
+	top: 10px;
+}
+.body6 h1{
+	text-align: center;
+	
+
+}
+.body6 p{
+	text-align: center;
+	}
+
+
+
+
+.body7 {
+	flex-basis: 33%;
+	margin: 1px;
+	background-color: lightblue;
+}
+
+.body7 img{
+	background-color: whitesmoke;
+	height: 70px;
+	width: 70px;
+	border-radius: 50px;
+	position: relative;
+	left: 100px;
+	top: 10px;
+}
+.body7 h1{
+	text-align: center;
+	
+
+}
+.body7 p{
+	text-align: center;
+	}
+
+
+
+
+.body8 {
+	flex-basis: 33%;
+	margin: 1px;
+	background-color: lightblue;
+}
+
+.body8 img{
+	background-color: whitesmoke;
+	height: 70px;
+	width: 70px;
+	border-radius: 50px;
+	position: relative;
+	left: 100px;
+	top: 10px;
+
+}
+.body8 h1{
+	text-align: center;
+	
+
+}
+.body8 p{
+	text-align: center;
+	}
+
+
+
+
+.head4{
+	display: flex;
+	position: relative;
+	top: 200px;
+	
+}
+.body9{
+	flex-basis: 50%;
+}
+.pic{
+	height: 300px;
+	width: 200px;
+	position: relative;
+	top: 120px;
+	left: 150px;
+}
+.pic2{
+	height: 300px;
+	width: 200px;
+	position: relative;
+	top: 70px;
+	left: 100px;
+
+}
+
+
+
+.body10{
+	flex-basis: 50%;
+}
+.head4 h1{
+	position: relative;
+	top: 60px;
+	
+}
+.head4 p{
+	position: relative;
+	top: 50px;
+	
+}
+.head4 h3{
+	position: relative;
+	top: 40px;
+	color: lightgreen;
+	
+}
+.head4 a{
+	position: relative;
+	top: 100px;
+	text-decoration: none;
+	margin: 20px;
+	color: black;
+	background-color: lightblue;
+	padding: 30px;
+	border-radius: 20px;
+}
+.head4 a:hover{
+	color: white;
+
+
+}
+
+.head5{
+	display: flex;
+	position: absolute;
+	top: 20%;
+	left: 15%;
+}
+.body11{
+	flex-basis: 25%;
+	margin: 5px;
+	background-color: lightblue;
+	height: 250px;
+	width: 200px;
+	
+
+}
+.body12{
+	flex-basis: 25%;
+	margin: 5px;
+	background-color: lightblue;
+	height: 250px;
+	width: 200px;
+}
+.body13{
+	flex-basis: 25%;
+	margin: 5px;
+	background-color: lightblue;
+	height: 250px;
+	width: 200px;
+}
+.body14{
+	flex-basis: 25%;
+	margin: 5px;
+	background-color: lightblue;
+	height: 250px;
+	width: 200px;
+}
+
+	
+
+
+
+	
+
+
+.body11 img{
+	background-color: whitesmoke;
+	height: 70px;
+	width: 70px;
+	border-radius: 50px;
+	position: relative;
+	left: 60px;
+	top: 10px;
+}
+.body11 h1{
+	text-align: center;
+
+	
+
+}
+.body11 p{
+	text-align: center;
+	}
+
+
+
+
+
+.body12 img{
+	background-color: whitesmoke;
+	height: 70px;
+	width: 70px;
+	border-radius: 50px;
+	position: relative;
+	left: 60px;
+	top: 10px;
+}
+.body12 h1{
+	text-align: center;
+	
+	
+
+}
+.body12 p{
+	text-align: center;
+	}
+
+
+
+
+
+.body13 img{
+	background-color: whitesmoke;
+	height: 70px;
+	width: 70px;
+	border-radius: 50px;
+	position: relative;
+	left: 60px;
+	top: 10px;
+
+}
+.body13 h1{
+	text-align: center;
+	
+	
+
+}
+.body13 p{
+	text-align: center;
+	}
+.body14 img{
+	background-color: whitesmoke;
+	height: 70px;
+	width: 70px;
+	border-radius: 50px;
+	position: relative;
+	left: 60px;
+	top: 10px;
+
+}
+.body14 h1{
+	text-align: center;
+	
+	
+
+}
+.body14 p{
+	text-align: center;
+	}
+
+
+.head6{
+	display: flex;
+	position: relative;
+	top: 700px;
+}
+.body15{
+	flex-basis:50% ;
+
+}
+.body16{
+	flex-basis:50% ;
+
+}
+.pic3{
+	height: 280px;
+	width: 340px;
+	border-radius: 20px;
+	position: relative;
+	bottom: 300px;
+	left: 50px;
+
+}
+.pic4{
+	height: 150px;
+	width: 200px;
+	position: relative;
+	bottom: 270px;
+	right: 320px;
+	border-radius: 40px;
+}
+.body15 h1{
+	position: relative;
+	bottom: 330px;
+	left: 200px;
+}
+.body15 p{
+	position: relative;
+	bottom: 300px;
+	left: 200px;
+	font-size: 17px;
+}
+.body15 a{
+	position: relative;
+	bottom: 270px;
+	left: 250px;
+	text-decoration: none;
+	background-color: lightblue;
+	padding: 10px;
+	border-radius: 10px;
+	color: black;
+}
+.body15 a:hover{
+	color: white;
+}
+.body15 h2{
+	position: relative;
+	left: 470px;
+	bottom: 100px;
+}
+
